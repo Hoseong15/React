@@ -10,7 +10,7 @@ const Detail1 = ({ texts, title }) => {
           <h2>{test.deatiltitle}</h2>
           <p>{test.deatillegth}</p>
           <p className='text'>{test.deatilprice}</p>
-          
+          <h1>sdsds</h1>
         </div>
       ))}
     </div>

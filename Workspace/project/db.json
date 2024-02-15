@@ -1,0 +1,248 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "url" : "메인사진/가디건 1 이미지-01.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "베스트셀러",
+      "title": "파로 오버 사이즈 부클 가디건 클래식 블랙 ",
+      "length" : "여성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "75,000원"
+    },
+    {
+      "id": 1,
+      "url" : "메인사진/가디건 2 이미지-02.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "베스트셀러",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "72,000원"
+    },
+    {
+      "id": 2,
+      "url" : "메인사진/가방 1 포스터-01.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 3,
+      "url" : "메인사진/가방 2 이미지-05.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 4,
+      "url" : "메인사진/니트 1 포스터.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 5,
+      "url" : "메인사진/니트 2 이미지-04.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 6,
+      "url" : "메인사진/니트 3 이미지-01.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 7,
+      "url" : "메인사진/모자 1 이미지-01.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 8,
+      "url" : "메인사진/모자 2 이미지-10.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 9,
+      "url" : "메인사진/바지 1 이미지-05.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 10,
+      "url" : "메인사진/바지 2 이미지-02.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 11,
+      "url" : "메인사진/바지 3 이미지-03.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 12,
+      "url" : "메인사진/바지 4 이미지-02.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 13,
+      "url" : "메인사진/바지 5 이미지-01.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 14,
+      "url" : "메인사진/자켓 1 이미지-05.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 15,
+      "url" : "메인사진/집업 이미지-04.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 16,
+      "url" : "메인사진/티셔츠 1 메인1.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    },
+    {
+      "id": 17,
+      "url" : "메인사진/티셔츠 2 메인1.jpg",
+      "second img" : "2",
+      "color img" :  "3",
+      "color img2" : "4",
+      "recommend" : "신상품",
+      "title": "Saturrday Retro Mood",
+      "length" : "남성 반팔",
+      "color" : "2개 색상" ,
+      "price" : "70,000원"
+    }
+
+
+
+
+
+
+
+
+
+  ],
+  "details": [
+    {
+      "id": 0 ,
+      "mainimg" : "1",
+      "mainimg2" : "1",
+      "deatiltitle" : "Stripe Organic Seersucker Shirts - Creamy Butter" ,
+      "subtext" : "스트라이프 오가닉 시어서커 셔츠 크리미 버터",
+      "deatillegth" : "남여공용 반팔" ,
+      "deatilprice": "67,150원 70,000원 15%",
+      "colorimg" : "1",
+      "colorimg2" : "1",
+      "deatilsize" : "S M L Xl" ,
+      "order" : "장바구니 바로구매" ,
+      "deatildesign": "디자인  오가닉한 리조트 감성에 화려함을 더한 matter의 'Endless Saturday'시즌 시어서커 셔츠입니다" ,
+      "deatilcodyitem" : "함꼐 코디하기 좋은 아이템  데님, 크림진, 부츠컷 , 치노팬츠" ,
+      "deatilmaterial" : "소재  코튼 100%" ,
+      "wash" : "세탁방법 -손세탁 / 드라이클리닝 가능"
+    }
+  ]
+}
